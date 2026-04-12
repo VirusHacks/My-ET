@@ -3,7 +3,7 @@
 **Transforming any article, topic, or idea into a fully produced podcast episode — instantly.**
 
 [![Framework: Next.js 16](https://img.shields.io/badge/Framework-Next.js%2016-black?logo=nextdotjs)](https://nextjs.org/)
-[![AI Engine: Gemini 2.5 Flash](https://img.shields.io/badge/AI-Gemini%201.5%20Pro-blue?logo=google)](https://deepmind.google/technologies/gemini/)
+[![AI Engine: Gemini 2.5 Flash](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-blue?logo=google)](https://deepmind.google/technologies/gemini/)
 [![Voice: ElevenLabs](https://img.shields.io/badge/Voice-ElevenLabs-black)](https://elevenlabs.io/)
 [![Search: Tavily](https://img.shields.io/badge/Search-Tavily-6366f1)](https://tavily.com/)
 [![Database: Neon Postgres](https://img.shields.io/badge/Database-Neon%20Postgres-00e599?logo=postgresql)](https://neon.tech/)
